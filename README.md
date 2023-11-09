@@ -5,6 +5,8 @@
 
 ## Underlying Technology
 
+- HTML and CSS
+- Programming Language(Javascript,PHP)
 
 
 
